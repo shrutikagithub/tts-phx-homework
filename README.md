@@ -4,4 +4,6 @@ This is the homework project we will be working on for the rest of this course.
 
 ## Notes
 
+hello
+
 [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
