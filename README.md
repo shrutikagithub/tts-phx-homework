@@ -4,7 +4,7 @@ This is the homework project we will be working on for the rest of this course.
 
 ## Notes
 
-hello!
+hello
 
 An important section of github to look at is is the [Pull Requests](https://github.com/m3talsmith/tts-phx-homework/pulls) section. In this section you'll have the various changes that others have requested you pull in.
 
